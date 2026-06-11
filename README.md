@@ -1,9 +1,13 @@
 <div align="center">
 
-<!-- Colorful Box Title -->
-<div style="background: linear-gradient(135deg, #0078d4, #00c6ff, #0072ff); padding: 20px; border-radius: 12px; display: inline-block; box-shadow: 0px 4px 15px rgba(0, 120, 212, 0.4); margin-bottom: 10px;">
-  <h1 style="color: white; margin: 0; font-family: 'Segoe UI', sans-serif; letter-spacing: 1px;">🚀 DevOps Engineer</h1>
-</div>
+<!-- Solid Colorful Border & Background Box for Title -->
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#0078d4" style="background: #0078d4; border-radius: 12px; padding: 18px 40px;">
+      <h1 style="color: #ffffff; font-family: 'Segoe UI', Arial, sans-serif; margin: 0; font-size: 2.2em; font-weight: bold; letter-spacing: 1.5px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🚀 DevOps Engineer</h1>
+    </td>
+  </tr>
+</table>
 
 ### Welcome to My Portfolio!
 
@@ -40,7 +44,7 @@ Hi, I'm Sudhanshu Pandey, a passionate DevOps Engineer with hands-on experience 
       <td>An open-source Infrastructure as Code (IaC) tool used to automate and manage cloud infrastructure resources securely.</td>
     </tr>
     <tr>
-      <td><img src="https://simpleicons.org/icons/azuredevops.svg" width="22" valign="middle" style="filter: invert(39%) sepia(87%) saturate(1217%) hue-rotate(185deg) brightness(96%) contrast(101%);"/> &nbsp; <b>Azure DevOps</b></td>
+      <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/azure_devops.png" width="22" valign="middle"/> &nbsp; <b>Azure DevOps</b></td>
       <td>A Microsoft product that provides development tools, services, and features for CI/CD pipelines and continuous delivery.</td>
     </tr>
     <tr>
@@ -60,7 +64,7 @@ Hi, I'm Sudhanshu Pandey, a passionate DevOps Engineer with hands-on experience 
       <td>Scripting languages used for automating system tasks, configuration, deployment definitions, and pipeline workflows.</td>
     </tr>
     <tr>
-      <td><img src="https://simpleicons.org/icons/sonarqube.svg" width="22" valign="middle" style="filter: invert(53%) sepia(93%) saturate(2716%) hue-rotate(176deg) brightness(97%) contrast(101%);"/> &nbsp; <b>SonarQube & Checkmarx</b></td>
+      <td><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sonarqube.png" width="22" valign="middle"/> &nbsp; <b>SonarQube & Checkmarx</b></td>
       <td>Code quality and security analysis tools used for static application security testing (SAST) and code review.</td>
     </tr>
     <tr>
@@ -72,7 +76,7 @@ Hi, I'm Sudhanshu Pandey, a passionate DevOps Engineer with hands-on experience 
       <td>An open-source operating system widely used for server administration, deployment hosting, and environment management.</td>
     </tr>
     <tr>
-      <td><img src="https://simpleicons.org/icons/prometheus.svg" width="22" valign="middle" style="filter: invert(49%) sepia(87%) saturate(2461%) hue-rotate(345deg) brightness(101%) contrast(101%);"/> &nbsp; <b>Prometheus</b></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="22" valign="middle"/> &nbsp; <b>Prometheus</b></td>
       <td>An open-source monitoring and alerting toolkit designed for metrics collection from cloud-native systems and applications.</td>
     </tr>
     <tr>
