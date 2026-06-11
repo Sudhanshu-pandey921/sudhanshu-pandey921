@@ -19,7 +19,6 @@
 
 Hi, I'm Sudhanshu Pandey, a passionate DevOps Engineer with hands-on experience in Microsoft Azure, Terraform, Azure DevOps, Docker, Kubernetes, Linux, Prometheus, Grafana, and CI/CD Automation. I enjoy building secure, scalable, and production-ready cloud infrastructure using Infrastructure as Code (IaC) while implementing monitoring, observability, and automation solutions to improve reliability and operational efficiency.
 
-* **Website:** [sudhanshu-pandey921.github.io](https://github.com/Sudhanshu-pandey921)
 * **Email:** [spandey2662@gmail.com](mailto:spandey2662@gmail.com)
 * **LinkedIn:** [Sudhanshu Pandey](https://www.linkedin.com/in/sudhanshu-pandey-62b0a8248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
